@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
--figuring out timestamp 
+- figuring out timestamp was a bit difficult [ran into complications with viewing it]
 - weird build error [fixed by clearing it from time to time]
 - apologies for my gif quality - the emulator keeps moving with my mouse for some reason
 
