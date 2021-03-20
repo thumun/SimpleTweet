@@ -41,7 +41,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- a weird url appeared in one of the sample tweets I added (not sure where it came from)
+- for some reason, the timestamp for my tweets are not formatting properly but it works for other tweets
 
 ## Open-source libraries used
 
